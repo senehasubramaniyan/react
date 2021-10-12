@@ -2,10 +2,7 @@
 <h2>Quiz App</h2>
 
  <h2>Demo </h2>
- <video controls>
-  <source src="restorgro.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+ https://user-images.githubusercontent.com/6877923/115474571-03c75800-a23e-11eb-8096-8973aad5fa9f.mp4
 <img src="1.jpg">
  <br>
  <img src="2.jpg">
