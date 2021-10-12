@@ -12,7 +12,6 @@
 ## ABOUT
 Quiz App made with React and REST API Server JSON
 
-![preview](https://i.ibb.co/4K2y8hh/localhost-3000.png)
 
 
 ## Installation
