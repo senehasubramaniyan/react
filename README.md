@@ -1,7 +1,9 @@
 <div align="center">
 <h2>Quiz App</h2>
 <img src="1.jpg">
-<img src="https://img.shields.io/badge/license-MIT-green.svg">
+ <img src="2.jpg">
+  <img src="3.jpg">
+  <img src="4.jpg">
 </div>
 
 ## Introduction
