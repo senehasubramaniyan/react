@@ -1,5 +1,7 @@
 <div align="center">
 <h2>Quiz App</h2>
+
+ <h2>Demo </h2>
 <img src="1.jpg">
  <br>
  <img src="2.jpg">
